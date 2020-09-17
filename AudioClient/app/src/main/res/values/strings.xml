@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioClient</string>
+    <string-array name="clip_names">
+        <item>Lost</item>
+        <item>Memes</item>
+        <item>Nekozilla</item>
+        <item>So Happy</item>
+        <item>You and Me</item>
+    </string-array>
+</resources>
