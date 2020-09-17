@@ -1,2 +1,2 @@
 # Clip Service Player
-![Server Welcome Screen:](appPicture.png)
+![Server Welcome Screen:](https://github.com/jamilnaber/ClipServicePlayer/blob/master/appPicture.PNG)
