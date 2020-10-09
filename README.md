@@ -7,5 +7,9 @@ These are two android apps, first one will be a clip server storing the audio cl
 *  Resuming the playback
 *  Stopping the playback 
 *  Stopping the service
+## Specifications
+*  Java 8 +
+*  Andriod SDK Platform 28
+*  Pixel 3 XL API 28
 ## ScreenShot
 ![Server Welcome Screen:](https://github.com/jamilnaber/ClipServicePlayer/blob/master/appPicture.PNG)
