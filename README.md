@@ -7,4 +7,5 @@ These are two android apps, first one will be a clip server storing the audio cl
 *  Resuming the playback
 *  Stopping the playback 
 *  Stopping the service
+## ScreenShot
 ![Server Welcome Screen:](https://github.com/jamilnaber/ClipServicePlayer/blob/master/appPicture.PNG)
